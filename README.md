@@ -12,7 +12,7 @@ Nesse desafio, eu criei uma aplicação para teinar o que eu aprendi até agora 
 
 - **`Listar os repositórios da API`**: Deve ser capaz de criar uma lista com o campo **title** de todos os repositórios que estão cadastrados na API.
 
-- **`Adicionar um repositório a API`**: Deve ser capaz de adicionar um novo item na API através de um botão com o texto **Adicionar** e, após a criação, deve ser capaz de exibir o nome dele após o cadastro.
+- **`Adicionar um repositório a API`**: Deve ser capaz de adicionar um novo item na API através de um botão com o texto **Adicionar** e, após a criação, deve exibir o nome dele na lista.
 
 - **`Remover um repositório da API`**: Para cada item da lista, deve possuir um botão com o texto **Remover** que, ao clicar, irá chamar uma função para remover esse item da lista do frontend e da API.
 
