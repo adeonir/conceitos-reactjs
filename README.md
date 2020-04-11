@@ -1,3 +1,7 @@
+<h3 align="center">
+  Desafio: Conceitos do ReactJS
+</h3>
+
 ## Sobre o desafio
 
 Nesse desafio, eu criei uma aplicação para teinar o que eu aprendi até agora no ReactJS!
