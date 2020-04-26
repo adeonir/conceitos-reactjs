@@ -52,7 +52,7 @@ $ git clone https://github.com/adeonir/gostack-conceitos-reactjs conceitos-react
 # Entre no diretório
 $ cd conceitos-reactjs
 
-# Installe as dependências
+# Instale as dependências
 $ yarn
 
 # Rode a aplicação
